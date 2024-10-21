@@ -1,0 +1,57 @@
+[
+{
+    "model": "researches.research",
+    "pk": 1,
+    "fields": {
+        "title": "Quantum Computing Advancements",
+        "description": "Exploring the latest developments in quantum computing and its potential applications in cryptography.",
+        "start_date": "2023-01-15",
+        "end_date": "2024-01-14",
+        "status": "ongoing"
+    }
+},
+{
+    "model": "researches.research",
+    "pk": 2,
+    "fields": {
+        "title": "AI in Healthcare",
+        "description": "Investigating the use of artificial intelligence in diagnosing and treating various medical conditions.",
+        "start_date": "2022-11-01",
+        "end_date": null,
+        "status": "ongoing"
+    }
+},
+{
+    "model": "researches.research",
+    "pk": 3,
+    "fields": {
+        "title": "Sustainable Energy Solutions",
+        "description": "Researching new methods for harnessing renewable energy sources more efficiently.",
+        "start_date": "2023-03-01",
+        "end_date": "2023-12-31",
+        "status": "ongoing"
+    }
+},
+{
+    "model": "researches.research",
+    "pk": 4,
+    "fields": {
+        "title": "Nanotechnology in Material Science",
+        "description": "Studying the applications of nanotechnology in developing advanced materials for industrial use.",
+        "start_date": "2022-09-01",
+        "end_date": "2023-08-31",
+        "status": "completed"
+    }
+},
+{
+    "model": "researches.research",
+    "pk": 5,
+    "fields": {
+        "title": "Cybersecurity in IoT Devices",
+        "description": "Analyzing and improving security measures for Internet of Things (IoT) devices.",
+        "start_date": "2023-02-01",
+        "end_date": null,
+        "status": "ongoing"
+    }
+}
+]

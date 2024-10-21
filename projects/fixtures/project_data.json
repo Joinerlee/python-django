@@ -1,0 +1,41 @@
+[
+{
+    "model": "projects.project",
+    "pk": 1,
+    "fields": {
+        "title": "New Research Project",
+        "description": "This is a new research project about AI",
+        "image": "",
+        "video": "",
+        "start_date": "2023-05-15",
+        "end_date": null,
+        "status": "Ongoing"
+    }
+},
+{
+    "model": "projects.project",
+    "pk": 2,
+    "fields": {
+        "title": "AI Research Project",
+        "description": "Investigating advanced machine learning algorithms",
+        "image": "",
+        "video": "",
+        "start_date": "2023-05-01",
+        "end_date": null,
+        "status": "Ongoing"
+    }
+},
+{
+    "model": "projects.project",
+    "pk": 3,
+    "fields": {
+        "title": "Green Energy Solutions",
+        "description": "Developing sustainable energy technologies",
+        "image": "",
+        "video": "",
+        "start_date": "2023-04-10",
+        "end_date": null,
+        "status": "Completed"
+    }
+}
+]
